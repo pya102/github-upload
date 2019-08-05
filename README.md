@@ -2,5 +2,5 @@
 
 __This text should also be bolded__
 
-* This text should be italicized *
-_ This text should also be italicized  _
+*This text should be italicized*
+_This text should also be italicized_
